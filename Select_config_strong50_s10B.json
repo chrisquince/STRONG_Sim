@@ -1,0 +1,221 @@
+{
+    "reads": {
+        "no_Reads": 25000000,
+    
+        "length": 150,
+         
+        "insert_length": 300,
+        
+        "insert_sd": 10
+    },
+    
+    "no_Samples" : 10,
+     
+    "species_dist_Params": {
+        "mean_log_Mean": 1.0,
+    
+        "sd_log_Mean": 0.125,
+    
+        "k_log_Sd": 1.0,
+    
+        "theta_log_Sd": 1.0,
+        
+        "beta": 1.0,
+        
+        "alpha": 1.0
+    },
+    
+    "no_Species" : 45,
+
+    "species": [
+        {
+            "dir": "Strain_587753/",
+            "nStrains": "4"
+        },
+        {
+            "dir": "Strain_35814/",
+            "nStrains": "4"
+        },
+        {
+            "dir": "Strain_285/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_438/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1833/",
+            "nStrains": "3"
+        },
+        {
+            "dir": "Strain_782/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1509/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_2095/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_85698/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_382/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_2096/",
+            "nStrains": "3"
+        },
+        {
+            "dir": "Strain_34085/",
+            "nStrains": "5"
+        },
+        {
+            "dir": "Strain_1245/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1452/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_1613/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_948/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_29519/",
+            "nStrains": "3"
+        },
+        {
+            "dir": "Strain_96345/",
+            "nStrains": "3"
+        },
+        {
+            "dir": "Strain_777/",
+            "nStrains": "3"
+        },
+        {
+            "dir": "Strain_375/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_168695/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_236/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_358/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_399/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_109790/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1718/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_2252/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_729/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1334/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1624/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_29484/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_636/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1408/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_1402/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_2287/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_582/",
+            "nStrains": "1"
+        },
+        {
+            "dir": "Strain_305/",
+            "nStrains": "5"
+        },
+        {
+            "dir": "Strain_553/",
+            "nStrains": "4"
+        },
+        {
+            "dir": "Strain_774/",
+            "nStrains": "4"
+        },
+        {
+            "dir": "Strain_715/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_43080/",
+            "nStrains": "4"
+        },
+        {
+            "dir": "Strain_1308/",
+            "nStrains": "5"
+        },
+        {
+            "dir": "Strain_2208/",
+            "nStrains": "2"
+        },
+        {
+            "dir": "Strain_2209/",
+            "nStrains": "5"
+        },
+        {
+            "dir": "Strain_1681/",
+            "nStrains": "5"
+        }
+        
+    ],
+    
+    "max_seqs" : 5,
+    
+    "min_div"  : 0.05,
+    
+    "max_div"  : 5.0,
+    
+    "min_scg"  : 35
+}
